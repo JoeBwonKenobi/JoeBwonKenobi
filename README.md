@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**JoeBwonKenobi/JoeBwonKenobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# **Hello!**
 - 🔭 I’m currently working on one project that takes real sales data from a local floral shop to predict future sales.
 - 🔭 I'm also currently working on a project that takes real data from my Apex legends profile on Xbox involving my kill/death ratio to forecast predictions based on past statistics.
 - 🌱 I’m currently learning form two different Coursers courses as well, Google data analytics professional certificate and Google IT Automation with Python professional certificate
