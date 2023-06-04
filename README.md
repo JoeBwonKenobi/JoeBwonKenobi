@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on any freelance projects involving meaningful, real-world data that can make a difference in the world around me.
 - 🤔 I’m looking for help networking with people who want to hire someone like me for an entry-level data scientist or data analyst position.
 - 💬 Ask me about the details any of my projects, how I used python and data analytics to find useful insights in the datasets that I used.
-- 📫 How to reach me: https://www.linkedin.com/in/joe-lardie-47960b259/
+- 📫 How to reach me: https://www.linkedin.com/in/joe-lardie-47960b259/  Feel free to direct message me on Linked In link provided.
