@@ -1,5 +1,5 @@
 # **Hello!**
-- 🔭 I’m currently working on a project that takes real sales data from a local floral shop to predict future sales.
+- 🔭 I’m currently working on a project that takes real sales data from a local floral shop to identify sales trends and predict future sales.
 - 🔭 I'm also currently working on a project that takes real data from my Apex legends profile on Xbox involving my kill/death ratio to forecast predictions based on past statistics.
 - 🌱 I've completed the Data Science Certificate at Coding Dojo while working full-time as well and discovered the priceless skills of how to time-manage like a professional, how to properly use google as a research tool and informational, educational tool, and how to design, organize and execute data science projects with the intent of finding extremely valuable, realatable insight.
 - 🌱 I’m currently learning form two different Coursers courses as well, Google data analytics professional certificate and Google IT Automation with Python professional certificate
