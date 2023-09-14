@@ -5,5 +5,7 @@ I'm Joseph Lardie, this is my project portfolio. I am a data analyst that loves 
 -  I’m currently continuing my learning on Courseraand am taking the Google Advanced Data analytics professional certificate which dives into Project management and some more complex methods of using Python for data and statistical analysis.
 -  I've published multiple projects since finishing my data science certification at coding dojo and would love to breakdown any part of them in further detail, or answer any questions via linked in mesage.
 - I'm looking to work with data professionals using meaningful, real-world data that can make a difference in the world around me. Weather you're a potential future employer, or someone just browsing peolpe's portfolios on LinkedIn, I'm more than happy to connect with people who are driven to use data science and data analytics to change the world. Please don't hesitate to ask me about the details any of my projects, how I used python, machine learning, and data analytics to find useful insights in the datasets involved. I'd be happy to explain any part of these projects in further detail.
-  
+
+- Feel Free to check out some of my Tableau skills:  https://public.tableau.com/app/profile/joseph.lardie
+
 - 📫 How to reach me: https://www.linkedin.com/in/joe-lardie-47960b259/  Feel free to direct message me on Linked In link provided.
