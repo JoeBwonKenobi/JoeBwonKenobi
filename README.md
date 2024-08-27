@@ -8,4 +8,6 @@ I'm Joseph Lardie, this is my project portfolio. I am a data analyst that loves 
 
 - Feel Free to check out some of my Tableau skills:  https://public.tableau.com/app/profile/joseph.lardie
 
+- ALso check out some of my work on Kaggle :  https://www.kaggle.com/joelardie
+
 - 📫 How to reach me: https://www.linkedin.com/in/joe-lardie-47960b259/  Feel free to direct message me on Linked In link provided.
